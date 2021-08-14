@@ -204,7 +204,7 @@ Understanding the order and conditions under which timer control actions are exe
 
 ##### Script Startup
 
-The name of this action is `startup`. This action is triggered when the script is first loads. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
+The name of this action is `startup`. This action is triggered when the script is first loaded. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
 
 ##### Script Shutdown
 
